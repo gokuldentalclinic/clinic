@@ -1,0 +1,246 @@
+body {
+
+
+  text-align: center;
+
+}
+
+
+h2{
+
+
+  font-family: "Arvo", cursive;
+
+
+
+}
+h3{
+
+  font-family: "Arvo", cursive;
+
+
+
+}
+
+.image{
+    width:50%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+
+  .image1{
+
+
+    width:  450px;
+    height: 450px;
+    border-radius: 100%;
+    object-fit: cover;
+
+
+    }
+
+  .wow{
+
+        text-align: center;
+          padding:20% ;
+  }
+
+footer{
+
+  text-align: center;
+}
+
+.pop{
+      margin-bottom: 50px;
+  }
+
+.rt{
+  margin-bottom: 25px;
+  text-align: left;
+  color: #000000 ;
+  font-family: "Arvo", cursive;
+}
+
+a{
+  color: #6D1E16 ;
+
+}
+
+/*hr{
+  border:dotted #000000 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+  }*/
+
+  .ic{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: right;
+}
+
+.ic1{
+  text-align: center;
+}
+
+.ic2{
+padding-bottom: 20px;
+padding-left: 40px;
+}
+.ic3{
+align-items: stretch;
+}
+
+.ic4{
+  width:50%;
+  color:#6D1E16;
+  text-align:center;
+  font-weight: bolder;
+}
+
+
+.skill-now{
+  width:200%;
+  text-align:right;
+
+    }
+
+    .skill-row{
+
+      align-items: flex-end;
+
+        }
+
+        .skill-row1{
+          width:100%;
+          text-align:left;
+
+            }
+
+  .now{
+  width:25%;
+  float: right;
+  border-radius: 100%;
+  margin: 20px;
+
+  }
+
+  .now1{
+  width:25%;
+  float:inherit;
+  border-radius: 100%;
+  margin: 20px;
+
+  }
+
+#testimonials{
+    padding: 7% 15%;
+    text-align:center;
+background-color:#E8DAEF ;
+      color:#6D1E16;
+
+  }
+
+  #treatments{
+      padding: 7% 15%;
+      text-align:center;
+    background-color:#E8DAEF ;
+        color:#6D1E16;
+
+    }
+
+  #title{
+      padding: 7% 15%;
+      text-align:center;
+      background-color: #ef8172;
+      color:#fff;
+    }
+    #equipments{
+        padding: 7% 15%;
+        text-align:center;
+        background-color: #ef8172;
+        color:#fff;
+      }
+
+    #features{
+  padding: 10% 10%;
+
+  text-align: center;
+background-color:#E8DAEF ;
+  color:#6D1E16;
+
+    }
+
+
+    #grt{
+
+        background-color: #ef8172;
+        color:#fff;
+      }
+
+      #specialist{
+
+          padding: 7% 15%;
+          text-align:center;
+          background-color: #ef8172;
+          color:#fff;
+        }
+
+
+        #specialist1{
+
+            padding: 7% 15%;
+            text-align:center;
+
+            color:#fff;
+          }
+    #cont{
+      padding: 7% 15%;
+      background-color:#fff;
+      align-content: center;
+      }
+.details{
+  text-align: center;
+    padding: 7% 15%;
+}
+
+.emi{
+  padding: 5% 20%;
+  font-size: 1.5rem;
+
+}
+
+.emi1{
+  padding: 5% 15%;
+  font-size: 3rem;
+}
+
+.emi2{
+  padding-top: 65px;
+
+}
+
+.emi3{
+  padding: 5% 20%;
+  font-size: 1.5rem;
+
+
+}
+
+.icon{
+    color:#ef8172;
+    margin-bottom: 1rem;
+  }
+
+  .icon:hover{
+    color:#ff4c68;
+    margin-bottom: 1rem;
+  }
+  footer{
+
+        background-color:#E8DAEF ;
+          color:#5B2C6F ;
+    padding: 2% 20%;
+
+  }
